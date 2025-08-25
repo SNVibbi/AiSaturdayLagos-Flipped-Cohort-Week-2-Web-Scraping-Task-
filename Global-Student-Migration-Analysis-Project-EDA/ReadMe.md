@@ -113,7 +113,7 @@ Typical visuals include:
 
 Please fill in the blanks below with your specific Kaggle dataset details:
 
-* **Dataset:** <Dataset T> by \<Author/Organization> — Kaggle, <Year>.
+* **Dataset:** <Dataset T> by \<Eren Ata> — Kaggle, <Year>.
   **License:** <License name>
   **URL:** <(https://www.kaggle.com/code/erenata/global-student-migration-eda))
 
